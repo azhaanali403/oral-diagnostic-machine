@@ -1,4 +1,4 @@
-# ORAL PROBLEM DIAGNOSTIC MACHINCE
+# ORAL DIAGNOSTICS AID
 ## Description 
 This machine analyzes full set of teeth in the frontal position and diagnosis problems like spacing, crowding, over bite, under bite or lack thereof. It can analyze pictures as well as live images and yield a relatively accurate diagnosis given that the teeth are properly in range and in proper position in view. 
 ## Use Case
