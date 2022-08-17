@@ -4,4 +4,4 @@ This machine analyzes full set of teeth in the frontal position and diagnosis pr
 ## Use Case
 This is machine would ideally be used by dental students in training to study and understand the different teeth conditions in humans. 
 ## Scope of the Project
-In the future, this could be developed further to analyze oral diseases along side teeth deformaties and could potentially save patients from having their potential oral health concerns and issues go untreated for too long. 
+In the future, this could be developed further to analyze oral diseases along side teeth deformities and could potentially save patients from having their potential oral health concerns and issues go untreated for too long. 
